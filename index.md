@@ -5,3 +5,7 @@
 ###### This is  `<common>` header, which is the smallest
 
 ![Image of Godotocat](https://octodex.github.com/images/godotocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
